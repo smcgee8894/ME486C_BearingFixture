@@ -1,2 +1,7 @@
-# ME486C_BearingFixture
-Bearing fixture design project completed for senior capstone ME-476C, ME486C
+# Bearing Fixture, Senior Capstone Project
+
+Course: ME-476C, ME-486C
+
+Completed: Spring 2021 - ongoing
+
+Team members: Travis Harrison, Scott Mesoyedz, Connor Hoffmann
