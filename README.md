@@ -1,4 +1,4 @@
-# Bearing Fixture, Senior Capstone Project
+# General Atomics Bearing Fixture, Senior Capstone Project
 
 Course: ME-476C, ME-486C
 
